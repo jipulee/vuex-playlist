@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vuex-playlist
 
 ## Project setup
@@ -32,3 +33,6 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vuex-playlist
+>>>>>>> 9fcb63b7c6374e86ace8851abea1825b6e30094b
